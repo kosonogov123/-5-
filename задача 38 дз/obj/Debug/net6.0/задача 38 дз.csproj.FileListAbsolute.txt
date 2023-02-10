@@ -1,0 +1,15 @@
+C:\Users\SuperUser\Desktop\практика\семинар 5\задача 38 дз\obj\Debug\net6.0\задача 38 дз.csproj.AssemblyReference.cache
+C:\Users\SuperUser\Desktop\практика\семинар 5\задача 38 дз\obj\Debug\net6.0\задача 38 дз.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SuperUser\Desktop\практика\семинар 5\задача 38 дз\obj\Debug\net6.0\задача 38 дз.AssemblyInfoInputs.cache
+C:\Users\SuperUser\Desktop\практика\семинар 5\задача 38 дз\obj\Debug\net6.0\задача 38 дз.AssemblyInfo.cs
+C:\Users\SuperUser\Desktop\практика\семинар 5\задача 38 дз\obj\Debug\net6.0\задача 38 дз.csproj.CoreCompileInputs.cache
+C:\Users\SuperUser\Desktop\практика\семинар 5\задача 38 дз\bin\Debug\net6.0\задача 38 дз.exe
+C:\Users\SuperUser\Desktop\практика\семинар 5\задача 38 дз\bin\Debug\net6.0\задача 38 дз.deps.json
+C:\Users\SuperUser\Desktop\практика\семинар 5\задача 38 дз\bin\Debug\net6.0\задача 38 дз.runtimeconfig.json
+C:\Users\SuperUser\Desktop\практика\семинар 5\задача 38 дз\bin\Debug\net6.0\задача 38 дз.dll
+C:\Users\SuperUser\Desktop\практика\семинар 5\задача 38 дз\bin\Debug\net6.0\задача 38 дз.pdb
+C:\Users\SuperUser\Desktop\практика\семинар 5\задача 38 дз\obj\Debug\net6.0\задача 38 дз.dll
+C:\Users\SuperUser\Desktop\практика\семинар 5\задача 38 дз\obj\Debug\net6.0\refint\задача 38 дз.dll
+C:\Users\SuperUser\Desktop\практика\семинар 5\задача 38 дз\obj\Debug\net6.0\задача 38 дз.pdb
+C:\Users\SuperUser\Desktop\практика\семинар 5\задача 38 дз\obj\Debug\net6.0\задача 38 дз.genruntimeconfig.cache
+C:\Users\SuperUser\Desktop\практика\семинар 5\задача 38 дз\obj\Debug\net6.0\ref\задача 38 дз.dll
